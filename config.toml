@@ -1,0 +1,15 @@
+baseURL = "https://nicolagianoli.io/"
+languageCode = "en-us"
+title = "Nicola Gianoli"
+theme = "researcher"
+
+[params]
+author = "Nicola Gianoli"
+description = "A simple monospaced resume theme for Hugo."
+favicon = "favicon.ico"
+[params.footer]
+text = "By Nicola Gianoli"
+url = "https://github.com/nicolag97"
+
+[permalinks]
+"/" = "/:filename"
