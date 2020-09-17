@@ -6,7 +6,7 @@ title = "Nicola Gianoli"
 
 {{< figure class="avatar" src="/avatar.jpg" >}}
 
-#### Software engineer, golang lover.
+#### Software engineer, cloud lover.
 
 I am a guy with many interests. I like everything related to science
 and especially everything related to electronics and informatics. 
@@ -20,40 +20,22 @@ My main field is backend architecture design with a particular focus on
 
 - Golang
 - Kubernetes
-- Docker
 - Python
-- gRPC
 - Analogic and Digital electronics
 - Strong math foundations
+- HTTP stack
 
+# Now
 
-## Publications
+I'm currently pursuing a bachelor degree in physics at **Bologna** university 
+and at the same time I'm working for a startup named **[Ticketag](https://ticketag.it)**.
 
-In chronological order:
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+There I'm responsible for the design of most of the architecture.
 
-## Typography
+# Contacts
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+Feel free to contact me for every question.
 
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+- Mail: [hi@nicolagianoli.io](mailto:nicolagianoli.97@gmail.com)
+- Github: [nicolagianoli](https://github.com/nicolagianoli)
+- Twitter: [GianoliNicola](https://twitter.com/GianoliNicola)
