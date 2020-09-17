@@ -1,7 +1,7 @@
 baseURL = "https://nicolagianoli.io/"
 languageCode = "en-us"
 title = "Nicola Gianoli"
-theme = "researcher"
+theme = "nicola"
 
 [params]
 author = "Nicola Gianoli"
